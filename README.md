@@ -17,8 +17,3 @@ A simple beginner-level database project for managing school data. This project 
 ## Requirements
 - MySQL 5.7+ or MariaDB
 - Basic SQL knowledge
-
-## How to Run
-1. Open terminal and login to MySQL:
-   ```bash
-   mysql -u <username> -p
